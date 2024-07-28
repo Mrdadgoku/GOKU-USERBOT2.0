@@ -3,19 +3,19 @@ from os import getenv
 from dotenv import load_dotenv
 
 
-API_ID = int(6435225) #optional
+API_ID = int(21415583) #optional
 API_HASH = "" #optional
 
 SUDO_USERS = list(map(int, ("").split()))
-OWNER_ID = int(6762113050)
+OWNER_ID = int(6462365139)
 MONGO_URL = "MONGO_URL"
 BOT_TOKEN = "BOT_TOKEN"
-ALIVE_PIC = 'https://graph.org/file/c6a2ed96648fd03377dc9.jpg'
+ALIVE_PIC = 'https://graph.org/file/eabfb1087a5508dbbb218.jpg'
 ALIVE_TEXT = None
 PM_LOGGER = None
 LOG_GROUP = None
 GIT_TOKEN = None #personal access token
-REPO_URL = "https://github.com/itzshukla/STRANGER-USERBOT2.0"
+REPO_URL = "https://github.com/Mrdadgoku/GOKU-USERBOT2.0"
 BRANCH = "master" #don't change
  
 STRING_SESSION1 = ""
